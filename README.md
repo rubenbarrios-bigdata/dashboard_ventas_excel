@@ -97,10 +97,10 @@ Este tipo de análisis es útil para:
 
 **Ruben Barrios**
 
-Proyecto práctico desarrollado como parte de portafolio profesional en análisis de datos y Business Intelligence.
+Proyecto práctico desarrollado como parte de mi portafolio profesional en Análisis de Datos y Business Intelligence.
 
-Fuente de los datos: **Academia Datdata**.
+Fuente de los datos: **Academia Udemy**.
 
 ⭐ Si este proyecto te parece interesante, no olvides darle una estrella al repositorio y conectar en [LinkedIn](https://www.linkedin.com/in/ruben-barrios-1430712ab/).
 
-`#DataAnalytics` `#PowerBI` `#BusinessIntelligence` `#FinancialAnalysis` `#DAX` `#DataPortfolio` `#ConsumerTech` `#Datdata`
+`#DataAnalytics` `#Excel` `#BusinessIntelligence` `#DataPortfolio`
