@@ -1,6 +1,14 @@
-# 📊 Dashboard de Ventas - Supermercado
+# 📊 Dashboard de Ventas — ElectroMart
 
-Dashboard desarrollado en Excel para analizar el desempeño comercial de una empresa de ventas con cobertura internacional, integrando indicadores de facturación, clientes, regiones y canales de envío.
+## 📌 Descripción del proyecto
+
+**ElectroMart** es una empresa líder en la comercialización de productos de oficina y mobiliario a nivel global, con un portafolio que incluye **accesorios, mobiliario, suministros de oficina y tecnología**.
+
+Este proyecto consiste en el desarrollo de un **dashboard interactivo en Microsoft Excel**, diseñado para facilitar el análisis de sus operaciones comerciales y transformar los datos de ventas en información útil para la toma de decisiones.
+
+## 🎯 Desafío
+
+Desarrollar una herramienta de análisis que permita obtener una visión clara del desempeño comercial de ElectroMart, **identificar tendencias y detectar oportunidades** a partir de sus datos de ventas.
 
 ![Dashboard de Ventas](image_dashboard_ventas.png)
 
