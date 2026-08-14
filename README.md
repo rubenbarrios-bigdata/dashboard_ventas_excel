@@ -14,31 +14,28 @@ Dashboard desarrollado en Excel para analizar el desempeño comercial de una emp
 | 🎫 Ticket promedio | **$246.49** |
 | 📦 Volumen de compras | **51,290 pedidos** |
 | 👥 Clientes únicos | **1,590** |
-| 📈 Utilidad total | **$1,467,457** (margen **11.6%**) |
-| 🚚 Promedio de días de entrega | **3.97 días** |
-| 🌍 Países con ventas | **147** |
 
 ---
 
-## 🔍 Hallazgos Clave
+## 🔍 Análisis de los Gráficos
 
-### 1. Concentración en pocos mercados
-El **Top 5 de países** concentra el **42.8%** de la facturación, y solo **Estados Unidos representa el 18.2%** del total ($2.30M). Le siguen Australia ($925K), Francia ($859K), China ($701K) y Alemania ($629K).
+### 📈 Evolución mensual de las ventas
+Las ventas crecen progresivamente desde **septiembre**, con el pico en **diciembre ($1.58M)** y noviembre ($1.55M). El mes más bajo es **febrero ($544K)** — diciembre vende **+190%** que febrero.
 
-### 2. Estacionalidad marcada en el cierre de año
-Las ventas crecen progresivamente desde **septiembre**, alcanzando el pico en **diciembre ($1.58M)** y noviembre ($1.55M). El mes más bajo es **febrero ($544K)** — diciembre vende **+190%** que febrero. El segundo semestre factura **60% más** que el primero.
+### 👥 Top de países con mayor facturación
+**Estados Unidos** lidera con el **18.2%** del total ($2.30M), seguido de Australia ($925K), Francia ($859K), China ($701K) y Alemania ($629K). El Top 5 concentra el **42.8%** de la facturación.
 
-### 3. El segmento Consumer domina
-**Consumer** genera el **51.5%** de las ventas, seguido de Corporate (30.3%) y Home Office (18.3%). Es un negocio con fuerte componente de consumo masivo.
+### 🌎 Ventas por región
+**West** ($2.30M) y **Central** ($2.24M) son las regiones líderes y suman el **35.9%** de las ventas totales, liderando también en utilidades ($286K y $250K respectivamente).
 
-### 4. Envío estándar como canal principal
+### 🚚 Ventas por método de envío
 **Standard Class** concentra el **59.9%** de las ventas; el resto se reparte entre Second Class (20.3%), First Class (14.5%) y Same Day (5.3%).
 
-### 5. Categoría tecnología lidera
-Las subcategorías **Phones ($1.71M), Copiers ($1.51M), Chairs ($1.50M), Bookcases ($1.47M) y Storage ($1.13M)** suman el **57.8%** de la facturación total.
+### 🎯 Ventas por segmento
+**Consumer** genera el **51.5%** de las ventas, seguido de Corporate (30.3%) y Home Office (18.3%).
 
-### 6. Baja concentración por cliente
-El Top 5 de clientes (Tom Ashbrook, Tamara Chand, Greg Tran, Christopher Conant y Sean Miller) suma solo **$184K (~1.5%** del total), lo que indica una base de clientes diversificada y bajo riesgo de dependencia.
+### 👤 Top clientes
+El Top 5 de clientes (Tom Ashbrook, Tamara Chand, Greg Tran, Christopher Conant y Sean Miller) suma solo **~$184K (1.5%** del total), lo que indica una base de clientes diversificada y bajo riesgo de dependencia.
 
 ---
 
