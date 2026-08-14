@@ -50,7 +50,7 @@ El Top 5 de clientes (Tom Ashbrook, Tamara Chand, Greg Tran, Christopher Conant 
 ## 🏗️ Estructura del Proyecto
 
 ```
-dashboard_ventas_electromart/
+dashboard_ventas_excel/
 ├── dashboard_ventas_supermercado.xlsx   # Libro de Excel (datos + análisis + dashboard)
 ├── image_dashboard_ventas.png           # Captura del dashboard
 └── README.md                            # Documentación del proyecto
