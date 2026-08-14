@@ -29,10 +29,10 @@ Las ventas crecen progresivamente desde **septiembre**, con el pico en **diciemb
 **West** ($2.30M) y **Central** ($2.24M) son las regiones líderes y suman el **35.9%** de las ventas totales, liderando también en utilidades ($286K y $250K respectivamente).
 
 ### 🚚 Ventas por método de envío
-**Standard Class** concentra el **59.9%** de las ventas; el resto se reparte entre Second Class (20.3%), First Class (14.5%) y Same Day (5.3%).
+**Standard Class** concentra el **60%** de las ventas; el resto se reparte entre Second Class (20%), First Class (14%) y Same Day (6%).
 
 ### 🎯 Ventas por segmento
-**Consumer** genera el **51.5%** de las ventas, seguido de Corporate (30.3%) y Home Office (18.3%).
+**Consumer** genera el **51%** de las ventas, seguido de Corporate (30%) y Home Office (19%).
 
 ### 👤 Top clientes
 El Top 5 de clientes (Tom Ashbrook, Tamara Chand, Greg Tran, Christopher Conant y Sean Miller) suma solo **~$184K (1.5%** del total), lo que indica una base de clientes diversificada y bajo riesgo de dependencia.
