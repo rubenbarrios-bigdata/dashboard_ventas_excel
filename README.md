@@ -22,7 +22,10 @@ Dashboard desarrollado en Excel para analizar el desempeño comercial de una emp
 ### 📈 Evolución mensual de las ventas
 Las ventas crecen progresivamente desde **septiembre**, con el pico en **diciembre ($1.58M)** y noviembre ($1.55M). El mes más bajo es **febrero ($544K)** — diciembre vende **+190%** que febrero.
 
-### 👥 Top de países con mayor facturación
+### 👤 Top 5 clientes con más ventas
+El Top 5 de clientes (Tom Ashbrook, Tamara Chand, Greg Tran, Christopher Conant y Sean Miller) suma solo **~$184K (1.5%** del total), lo que indica una base de clientes diversificada y bajo riesgo de dependencia.
+
+### 👥 Top 5 países con más ventas
 **Estados Unidos** lidera con el **18.2%** del total ($2.30M), seguido de Australia ($925K), Francia ($859K), China ($701K) y Alemania ($629K). El Top 5 concentra el **42.8%** de la facturación.
 
 ### 🌎 Ventas por región
@@ -33,9 +36,6 @@ Las ventas crecen progresivamente desde **septiembre**, con el pico en **diciemb
 
 ### 🎯 Ventas por segmento
 **Consumer** genera el **51%** de las ventas, seguido de Corporate (30%) y Home Office (19%).
-
-### 👤 Top clientes
-El Top 5 de clientes (Tom Ashbrook, Tamara Chand, Greg Tran, Christopher Conant y Sean Miller) suma solo **~$184K (1.5%** del total), lo que indica una base de clientes diversificada y bajo riesgo de dependencia.
 
 ---
 
